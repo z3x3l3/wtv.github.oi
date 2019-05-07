@@ -1,0 +1,123 @@
+
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.celan{
+  width: 564px;
+  height: 1080px;
+  background: #e0fff9;
+  display: inline-block;
+  float: left;
+    margin: 0;
+}
+.dierlan{
+  width:853px;
+  height:1080px;
+  background:#dcf0fe;
+  display: inline-block;
+  float: left;
+    margin: 0;
+}
+.yonlan{
+  width: 1086px;
+  height: 1080px;
+  display: inline-block;
+  float: left;
+  margin: 0;
+}
+.logo{
+  width: 564px;
+  height:241px;
+}
+
+.logo img{
+  padding-top: 42px;
+  padding-left: 59px;
+  display: inline-block;
+  float: left;
+}
+
+.logo h3{
+  font-size: 40px;
+  padding-left:20px;
+  padding-top: 97px;
+  display: inline-block;
+  float: left;
+}
+
+.nav{
+  width: 564px;
+  height: 454px;
+  background-color:#e0fff9;
+}
+.xian img{
+  padding-top:1px;
+  background-color: yellow;
+}
+.hudie img{
+  padding-left: 87px;
+  padding-top: 85px;
+  display: inline-block;
+  float: left;
+}
+
+.hudie p{
+  font-size: 46px;
+  padding-left: 209px;
+  padding-top: 68px;
+  letter-spacing: 85px;
+  }
+
+.yueliang img{
+    padding-left: 87px;
+    padding-top:85px;
+    display: inline-block;
+    float: left;
+  }
+
+  .yueliang p{
+    font-size: 46px;
+    padding-left: 209px;
+    padding-top: 68px;
+    letter-spacing: 85px;
+  }
+
+  .fye img{
+    padding-left: 87px;
+    padding-top:85px;
+    display: inline-block;
+    float: left;
+  }
+
+  .fye p{
+    font-size: 46px;
+    padding-left: 209px;
+    padding-top: 68px;
+    letter-spacing: 85px;
+  }
+.plan{
+  width: 564px;
+  height: 384px;
+  background-color:#e0fff9;
+}
+.plan p{
+  font-size: 48px;
+  padding-left: 129px;
+  padding-top: 36px;
+  letter-spacing: 28px;
+}
+.xingxi div{
+  font-size: 48px;
+  padding-left: 68px;
+  padding-top: 30px;
+}
+.xingxi p{
+  font-size: 25px;
+}
+.yi div{
+
+  padding-left: 10px;
+  padding-top: 1px;
+}
